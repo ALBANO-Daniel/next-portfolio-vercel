@@ -5,5 +5,5 @@ function TopBar() {
     <div className='text-lg bg-red-400 text-sky-300'>TopBar</div>
   )
 }
-
+ 
 export default TopBar
